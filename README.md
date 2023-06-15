@@ -4,9 +4,9 @@
 
 # App's wireframe
 
-<img src='https://i.imgur.com/b1qkpKS.png' width='125' height='100'>    
-<img src='https://i.imgur.com/8kowoln.png' width='125' height='100'> 
-<img src='https://i.imgur.com/d2FVBZd.png' width='125' height='100'>
+<img src='https://i.imgur.com/b1qkpKS.png' width='370' height='250'>    
+<img src='https://i.imgur.com/8kowoln.png' width='370' height='250'> 
+<img src='https://i.imgur.com/d2FVBZd.png' width='370' height='250'>
 
 # Technologies Used
 
