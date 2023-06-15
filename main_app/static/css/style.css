@@ -12,3 +12,12 @@ footer.page-footer {
   padding-top: 0;
   text-align: right;
 }
+
+#homeimg{
+  /* display: flex; */
+  justify-content: center;
+  align-items: center;
+  margin-right: 10%;
+  width: 100px;
+  height: 50%;
+}
